@@ -1,0 +1,5 @@
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\BankCards\BankCards\obj\Debug\net6.0\BankCards.csproj.AssemblyReference.cache
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\BankCards\BankCards\obj\Debug\net6.0\BankCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\BankCards\BankCards\obj\Debug\net6.0\BankCards.AssemblyInfoInputs.cache
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\BankCards\BankCards\obj\Debug\net6.0\BankCards.AssemblyInfo.cs
+C:\Users\PC-HL\OneDrive\Desktop\ev tapsiriqlari c#\BankCards\BankCards\obj\Debug\net6.0\BankCards.csproj.CoreCompileInputs.cache
